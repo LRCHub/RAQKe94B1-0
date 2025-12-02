@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "フライデー・ナイト",
+  "base_artist": "natori",
+  "createdAt": "2025-12-02T03:34:21.743230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フライデー・ナイト",
+      "artist": "流線形",
+      "has_synced": false,
+      "path": "select/01_フライデー・ナイト_流線形.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フライデー・ナイト",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/02_フライデー・ナイト_なとり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フライデー・ナイト",
+      "artist": "natori",
+      "has_synced": false,
+      "path": "select/03_フライデー・ナイト_natori.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フライデー・ナイト",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/04_フライデー・ナイト_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フライデー・ナイト",
+      "artist": "natori",
+      "has_synced": false,
+      "path": "select/pl_01_フライデー・ナイト_natori.txt"
+    }
+  ]
+}
